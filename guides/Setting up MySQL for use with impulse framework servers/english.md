@@ -1,4 +1,4 @@
-# How to set up your Physgun database for use with servers running the impulse framework
+# How to set up your Physgun database for use with the impulse framework
 
 Author: hondacivic___, Owner @ react: Half-Life 2: Roleplay
 
